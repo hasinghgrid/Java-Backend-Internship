@@ -1,0 +1,6 @@
+search/Main.class
+search/SerachEngineInterface/NoneSearchStrategy.class
+search/SerachEngineInterface/AnySearchStrategy.class
+search/SimpleSearchEngine/Search.class
+search/SerachEngineInterface/AllSearchStrategy.class
+search/SerachEngineInterface/SimpleSearchEngine.class
