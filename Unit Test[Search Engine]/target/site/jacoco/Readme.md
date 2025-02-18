@@ -1,14 +1,14 @@
-# Project Reports
-
-## 1. Code Coverage of Unit Test
-
-![Code Coverage](https://github.com/user-attachments/assets/00f8a200-164a-4486-9ee4-aba15a2806bf)
+# Project Unit Test Coverage
 
 
-## 2. Code Coverage with JaCoCo
+
+## 1. Code Coverage with JaCoCo
    
 <img width="1500" alt="Screenshot 2025-02-18 at 9 45 25 AM" src="https://github.com/user-attachments/assets/c1384917-50de-4de2-b26e-5b84c61523b9" />
 
+## 2. Code Coverage of Unit Test
+
+![Code Coverage](https://github.com/user-attachments/assets/00f8a200-164a-4486-9ee4-aba15a2806bf)
 
 ---
 
